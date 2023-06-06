@@ -1,5 +1,6 @@
-package android.example.firsttimersapp
+package android.example.firsttimersapp.presentation
 
+import android.example.firsttimersapp.R
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 

@@ -1,7 +1,7 @@
-package android.example.firsttimersapp.infrastructure.persistence.database
+package android.example.firsttimersapp.infrastructure.database
 
 import android.example.firsttimersapp.domain.FirstTimer
-import android.example.firsttimersapp.infrastructure.persistence.dao.FirstTimerDao
+import android.example.firsttimersapp.infrastructure.dao.FirstTimerDao
 import androidx.room.Database
 import androidx.room.RoomDatabase
 

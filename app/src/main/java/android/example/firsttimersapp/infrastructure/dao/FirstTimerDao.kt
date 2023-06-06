@@ -1,4 +1,4 @@
-package android.example.firsttimersapp.infrastructure.persistence.dao
+package android.example.firsttimersapp.infrastructure.dao
 
 import android.example.firsttimersapp.domain.FirstTimer
 import androidx.room.Dao
